@@ -22,10 +22,6 @@ A simple Javascript application that increases a number every time a button is c
 - CSS
 - JavaScript
 
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
-
 # 2 - Show / Hide Password
 
 A small interactive feature that allow users to toggle password visibility.
@@ -47,10 +43,6 @@ A small interactive feature that allow users to toggle password visibility.
 - CSS
 - JavaScript
 
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
-
 # 3 - Form Validation
 
 A simple form that validates user input before submission.
@@ -71,10 +63,6 @@ A simple form that validates user input before submission.
 - HTML
 - CSS
 - JavaScript
-
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
 
 # 4 - To-Do List
 
@@ -99,10 +87,6 @@ A dynamic to-do list application that allows users to manage tasks.
 - CSS
 - JavaScript
 
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
-
 # 5 - Theme Switcher (Dark / Light Mode)
 
 A simple theme toggle that switches between light and dark mode.
@@ -123,10 +107,6 @@ A simple theme toggle that switches between light and dark mode.
 - HTML
 - CSS
 - JavaScript
-
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
 
 # 6 - Modal Popup
 
@@ -149,10 +129,6 @@ A modal component that opens and closes dynamically.
 - CSS
 - JavaScript
 
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
-
 # 7 - Character Counter
 
 A live character counter for text input fields.
@@ -173,10 +149,6 @@ A live character counter for text input fields.
 - HTML
 - CSS
 - JavaScript
-
-## How to Run
-1. Download the project
-2. Run `index.html` with live server extension in VScode
 
 # 8 - Filterable List
 
